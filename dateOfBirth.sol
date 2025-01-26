@@ -6,7 +6,7 @@ contract birthsdays{
 
     uint256 myFavouriteNumber;
 
-
+    uint ivan;
     struct Person {
         string name;
         string dateOfBirth;
